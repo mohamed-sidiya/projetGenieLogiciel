@@ -68,6 +68,10 @@ Le professeur accède à un espace dédié via des identifiants sécurisés et p
 * Possibilité de valider manuellement la présence d’un étudiant.
 * Visualisation en direct de la liste **présents / absents**.
 
+### Justification d'absence
+
+* Peut justifier son absence ou en cas d'absence de la totalité des élèves auprès du superviseur
+
 ---
 
 # 3. Le Superviseur (Proviseur)

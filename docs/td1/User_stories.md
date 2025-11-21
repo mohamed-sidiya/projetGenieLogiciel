@@ -38,19 +38,27 @@ En tant que professeur, je veux un espace dédié afin de suivre le taux d’abs
 
 En tant que professeur, je veux un scanner afin de scanner le QR code des étudiants pour enregistrer leur présence.
 
+### US-08 — Soumission de justificatif
+
+En tant que professeur je veux pouvoir soumettre un justiﬁcatif aﬁn de prouver ma présence en cas d'absence de tous les étudiants.
+
+### US-09 — Saisie manuelle en cas de panne
+
+En tant que professeur je veux une saisie manuelle aﬁn de pouvoir enregistrer la présence au cas où le code Qr ne marche pas
+
 ---
 
 # 3. User Stories – Proviseur (Superviseur)
 
-### US-08 — Tableau de bord administratif
+### US-10 — Tableau de bord administratif
 
 En tant que proviseur, je veux un tableau de bord afin de consulter les absences des élèves et des professeurs.
 
-### US-09 — Gérer les justificatifs
+### US-11 — Gérer les justificatifs
 
 En tant que proviseur, je veux un espace pour valider ou rejeter les excuses d’absences soumises par les élèves.
 
-### US-10 — Recevoir des alertes administratives
+### US-12 — Recevoir des alertes administratives
 
 En tant que proviseur, je veux des alertes afin d’être notifié des absences répétées et/ou non justifiées.
 
