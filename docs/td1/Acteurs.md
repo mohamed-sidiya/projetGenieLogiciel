@@ -14,7 +14,7 @@ L’étudiant dispose d’une interface personnalisée et sécurisée par identi
 
 ### Enregistrement de présence
 
-* Utilisation d’un **code unique** fourni par le professeur et scanné pour enregistrer la présence.
+* Utilisation d’un **QR code unique**, scanné par le professeur pour enregistrer la présence.
 * **Notification instantanée** confirmant la validation de la présence.
 
 ### Gestion des absences
