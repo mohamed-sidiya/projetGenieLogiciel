@@ -1,41 +1,57 @@
-> **Application** **des** **gestions** **d'absences** **universitaires**
->
-> **User** **Stories**
->
-> (3061&
+# Application de Gestion d’Absences Universitaires
 
-Academic Report 1
+## User Stories – Groupe 3
 
-> L'étudiant :
->
-> En tant qu'étudiant, je veut une interface aﬁn de suivre mon taux
-> d'absentéisme
->
-> En tant qu'étudiant, je veux une alerte aﬁn d'etre notiﬁer en cas de
-> taux d'absentéisme élevé
->
-> En tant qu'étudiant je veux un espace justiﬁcatif aﬁn d'y soumettre
-> mes justiﬁcations pour éviter toute sanctionne
->
-> Le professeur:
->
-> En tant que professeur je veux une interface aﬁn de pouvoir
-> enregistrer la présence des élèves
->
-> En tant que professeur, je veux un espace qui m'est dédié aﬁn de
-> pouvoir suivre le taux d'absentéisme des élèves ainsi que mon propre
->
-> Le proviseur:
->
-> En tant que proviseur, je veux un tableau de bord administratif pour
-> pouvoir consulter les absences des élèves et professeurs
->
-> En tant que proviseur; je veux un espace un par aﬁn de valider ou
-> rejeter les excuses d'absences soumis par les élèves
+---
 
-Academic Report 2
+# 1. User Stories – Étudiant
 
-> \- En tant que proviseur je veux des alertes aﬁn d'etre notiﬁé des
-> absences répétés et/ou non justiﬁés
+### US-01 — Suivre son taux d’absentéisme
 
-Academic Report 3
+En tant qu’étudiant, je veux une interface afin de suivre mon taux d’absentéisme.
+
+### US-02 — Recevoir une alerte
+
+En tant qu’étudiant, je veux une alerte afin d’être notifié en cas de taux d’absentéisme élevé.
+
+### US-03 — Soumettre une justification
+
+En tant qu’étudiant, je veux un espace justificatif afin d’y soumettre mes justificatifs pour éviter toute sanction.
+
+### US-04 — Générer un QR code
+
+En tant qu’étudiant, je veux un code QR afin de permettre au professeur d’enregistrer ma présence.
+
+---
+
+# 2. User Stories – Professeur
+
+### US-05 — Enregistrer la présence
+
+En tant que professeur, je veux une interface pour enregistrer la présence des élèves.
+
+### US-06 — Suivre le taux d’absentéisme
+
+En tant que professeur, je veux un espace dédié afin de suivre le taux d’absentéisme des élèves ainsi que le mien.
+
+### US-07 — Scanner le QR code
+
+En tant que professeur, je veux un scanner afin de scanner le QR code des étudiants pour enregistrer leur présence.
+
+---
+
+# 3. User Stories – Proviseur (Superviseur)
+
+### US-08 — Tableau de bord administratif
+
+En tant que proviseur, je veux un tableau de bord afin de consulter les absences des élèves et des professeurs.
+
+### US-09 — Gérer les justificatifs
+
+En tant que proviseur, je veux un espace pour valider ou rejeter les excuses d’absences soumises par les élèves.
+
+### US-10 — Recevoir des alertes administratives
+
+En tant que proviseur, je veux des alertes afin d’être notifié des absences répétées et/ou non justifiées.
+
+---

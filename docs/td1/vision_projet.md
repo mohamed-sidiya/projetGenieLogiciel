@@ -1,99 +1,139 @@
-> **Application** **des** **gestions** **d'absences** **universitaires**
->
-> **Vision** **du** **produit**
->
-> (3061&
+# Application de Gestion d’Absences Universitaires
 
-Academic Report 1
+## Vision du Produit
 
-> Le problème à résoudre:
+---
 
-Les universités de Nouakchott deviennent de plus en plus larges avec un
-nombre d'étudiants qui ne cesse d'augmenter ce qui entraîne forcément
-l'augmentation du nombre de professeurs. Le problème qui se pose avec
-cela est celui de la maintenance et gestion des cours.Cela ne sera fait
-qu'en surveillant les comportements des élèves et professeurs en gardant
-trace des présences et absences de chacun.
+# 1. Le problème à résoudre
 
-Et c'est ici que se pose la question : Comment peut-on gérer ou plutôt
-suivre cet immense nombre de personnes ?
+Les universités de Nouakchott deviennent de plus en plus vastes, avec un nombre d’étudiants en constante augmentation, entraînant mécaniquement une hausse du nombre de professeurs et une complexité accrue dans la gestion administrative.
 
-> Le public cible:
+La gestion traditionnelle des présences — via feuilles manuelles, signatures ou appels en classe — devient rapidement **inefficace**, **peu fiable**, et **difficile à maintenir**.
+Elle entraîne :
 
-Comme on l'a mentionné dans le paragraphe précédent, notre public cible
-sera les universités mais on ne se limite point à ceux de Nouakchott ou
-de la Mauritanie. Notre application peut être utilisée globalement
-puisque ce problème se pose à toutes les universités mondiales .
+* des erreurs humaines fréquentes,
+* des pertes de données,
+* un manque de transparence,
+* une incapacité à suivre en temps réel le comportement des élèves et professeurs,
+* une surcharge administrative importante.
 
-> Les objectifs du produit:
->
-> Notre application vise à atteindre les objectifs suivants : ·
-> Digitaliser complètement le processus de prise de
+Face à un volume croissant d’étudiants et d’enseignants, une question se pose naturellement :
 
-présence,en remplaçant les méthodes manuelles par un systèmeautomatisé
-et efﬁcace.
+> **Comment suivre efficacement la présence de milliers de personnes au quotidien ?**
 
-· Permettre aux élèves de consulter leur taux d'absence en temps réel,
-aﬁn qu'ils puissent suivre leur assiduité de manière transparente.
+L’application proposée répond précisément à ce besoin.
 
-· Donner aux professeurs la possibilité d'accéder à leur propre taux
-d'absentéisme, ainsi qu'à celui de chacun de leurs élèves, pour un
-meilleur suivi pédagogique.
+---
 
-· Fournir au superviseur une vision globale des absences, avec des
-statistiques détaillées sur les élèves et les professeurs, pour une
-gestion optimale des présences.
+# 2. Public cible
 
-Academic Report 2
+Le public visé est principalement :
 
-> La valeur ajoutée :
->
-> **1.** **Automatisation** **du** **suivi** **de** **présence**
-> L’application remplace entièrement les méthodes
+* les **universités**,
+* les **institutions d’enseignement supérieur**,
+* les **administrations éducatives**.
 
-traditionnelles basées sur le papier ou les listes manuelles. Le suivi
-devient plus rapide, plus ﬁable et beaucoup moins sujet aux erreurs
-humaines.
+Bien que le problème soit décrit dans le contexte mauritanien, l’application a une portée **internationale** :
+le suivi d’absences est un besoin commun à **toutes les universités du monde**.
 
-> **2.** **Accès** **en** **temps** **réel** **aux** **informations**
+---
 
-Les élèves, professeurs et superviseurs disposent immédiatement des
-données qui les concernent : taux d’absence, historiques, relevés de
-présence et états des demandes. Cela améliore la transparence et
-facilite la gestion quotidienne.
+# 3. Objectifs du produit
 
-> **3.** **Réduction** **des** **erreurs** **et** **des**
-> **manipulations** **humaines** L’enregistrement des présences et
-> absences est traitée de
+L’application vise à atteindre les objectifs suivants :
 
-manière automatisée et sécurisée, ce qui limite fortement les risques de
-fraude ou de confusion et garantit une meilleure ﬁabilité des données.
+### ✔ Digitalisation du suivi de présence
 
-> **4.** **Centralisation** **de** **toutes** **les** **données**
+Remplacer les méthodes manuelles par un système automatisé, rapide, fiable et sécurisé.
 
-L’ensemble des informations liées aux présences, absences, justiﬁcations
-et statistiques est réuni dans un seul système. Cela simpliﬁe le travail
-administratif et rend l’accès aux données plus rapide.
+### ✔ Consultation du taux d'absence en temps réel
 
-> **5.** **Outil** **d’analyse** **pour** **l’administration**
+Permettre aux étudiants de connaître immédiatement leur niveau d’assiduité, avec un affichage clair et détaillé.
 
-Le superviseur dispose d’un tableau de bord regroupant des statistiques,
-des tendances et des indicateurs clés, permettant une meilleure
-compréhension de l’absentéisme et une prise de décision plus efﬁcace.
+### ✔ Suivi pédagogique pour les professeurs
 
-> **6.** **Gestion** **simpliﬁée** **des** **justiﬁcatifs**
+Fournir aux enseignants une interface pour consulter leur propre taux d’absentéisme, ainsi que celui de tous leurs étudiants.
 
-Les élèves peuvent soumettre leurs justiﬁcatifs directement depuis
-l’application, tandis que le superviseur peut les examiner, les valider
-ou les refuser. Cela allège la charge administrative et rend le
-processus plus ﬂuide.
+### ✔ Vision globale pour l’administration
 
-Academic Report 3
+Offrir au superviseur des statistiques complètes pour optimiser la gestion académique.
 
-> **7.** **Notiﬁcations** **et** **alertes** **automatiques**
+---
 
-Le système prévient les utilisateurs des absences non justiﬁées, des
-demandes en attente ou des taux d’absence élevés. La communication
-interne devient plus efﬁcace et réactive.
+# 4. Valeur ajoutée du produit
 
-Academic Report 4
+## 1️⃣ Automatisation du suivi des présences
+
+L’application remplace intégralement les feuilles manuelles.
+Le processus devient :
+
+* rapide,
+* fiable,
+* sécurisé,
+* beaucoup moins sujet aux erreurs humaines.
+
+## 2️⃣ Accès en temps réel aux informations
+
+Tous les acteurs (étudiants, professeurs, superviseurs) accèdent immédiatement à :
+
+* leurs absences,
+* leurs statistiques,
+* leur historique,
+* leurs demandes en cours.
+
+## 3️⃣ Réduction des erreurs humaines
+
+L’automatisation limite :
+
+* les oublis,
+* les falsifications,
+* les confusions,
+* les erreurs de transcription.
+
+La fiabilité des données est considérablement améliorée.
+
+## 4️⃣ Centralisation des données
+
+Toutes les informations importantes sont regroupées dans un système unique :
+
+* absences,
+* présences,
+* justificatifs,
+* statistiques globales,
+* historiques.
+
+Cela réduit le travail administratif et accélère l’accès aux données.
+
+## 5️⃣ Outil d’analyse pour l’administration
+
+Le superviseur bénéficie :
+
+* d’un tableau de bord complet,
+* de graphiques et tendances,
+* de comparaisons annuelles,
+* d’indicateurs clés.
+
+Cela facilite une prise de décision rapide et efficace.
+
+## 6️⃣ Gestion simplifiée des justificatifs
+
+Les étudiants peuvent déposer leurs justificatifs en ligne.
+Le superviseur peut :
+
+* les examiner,
+* les accepter,
+* les refuser,
+* ajouter un commentaire si nécessaire.
+
+## 7️⃣ Notifications et alertes automatiques
+
+Le système envoie automatiquement :
+
+* des alertes d’absences non justifiées,
+* des rappels de justificatifs,
+* des notifications en cas de taux d’absentéisme anormal,
+* des messages administratifs.
+
+La communication devient fluide, rapide et efficace.
+
+---
