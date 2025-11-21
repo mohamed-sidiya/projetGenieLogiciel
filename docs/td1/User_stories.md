@@ -56,7 +56,7 @@ En tant que proviseur, je veux un tableau de bord afin de consulter les absences
 
 ### US-11 — Gérer les justificatifs
 
-En tant que proviseur, je veux un espace pour valider ou rejeter les excuses d’absences soumises par les élèves.
+En tant que proviseur, je veux un espace pour valider ou rejeter les excuses d’absences soumises par les élèves et les professeurs.
 
 ### US-12 — Recevoir des alertes administratives
 
