@@ -79,5 +79,3 @@ Permet à l’étudiant de suivre son assiduité et de prendre conscience de sa 
 - Les données sont actualisées après chaque cours.  
 
 ---
-
-_Fichier généré automatiquement en format Markdown (Option 2 – version PRO)._  
