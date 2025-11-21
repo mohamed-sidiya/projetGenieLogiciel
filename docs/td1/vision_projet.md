@@ -62,7 +62,7 @@ Offrir au superviseur des statistiques complètes pour optimiser la gestion acad
 
 # 4. Valeur ajoutée du produit
 
-## 1️⃣ Automatisation du suivi des présences
+## a. Automatisation du suivi des présences
 
 L’application remplace intégralement les feuilles manuelles.
 Le processus devient :
@@ -72,7 +72,7 @@ Le processus devient :
 * sécurisé,
 * beaucoup moins sujet aux erreurs humaines.
 
-## 2️⃣ Accès en temps réel aux informations
+## b. Accès en temps réel aux informations
 
 Tous les acteurs (étudiants, professeurs, superviseurs) accèdent immédiatement à :
 
@@ -81,7 +81,7 @@ Tous les acteurs (étudiants, professeurs, superviseurs) accèdent immédiatemen
 * leur historique,
 * leurs demandes en cours.
 
-## 3️⃣ Réduction des erreurs humaines
+## c. Réduction des erreurs humaines
 
 L’automatisation limite :
 
@@ -92,7 +92,7 @@ L’automatisation limite :
 
 La fiabilité des données est considérablement améliorée.
 
-## 4️⃣ Centralisation des données
+## d. Centralisation des données
 
 Toutes les informations importantes sont regroupées dans un système unique :
 
@@ -104,7 +104,7 @@ Toutes les informations importantes sont regroupées dans un système unique :
 
 Cela réduit le travail administratif et accélère l’accès aux données.
 
-## 5️⃣ Outil d’analyse pour l’administration
+## e. Outil d’analyse pour l’administration
 
 Le superviseur bénéficie :
 
@@ -115,7 +115,7 @@ Le superviseur bénéficie :
 
 Cela facilite une prise de décision rapide et efficace.
 
-## 6️⃣ Gestion simplifiée des justificatifs
+## f. Gestion simplifiée des justificatifs
 
 Les étudiants peuvent déposer leurs justificatifs en ligne.
 Le superviseur peut :
@@ -125,7 +125,7 @@ Le superviseur peut :
 * les refuser,
 * ajouter un commentaire si nécessaire.
 
-## 7️⃣ Notifications et alertes automatiques
+## g. Notifications et alertes automatiques
 
 Le système envoie automatiquement :
 
