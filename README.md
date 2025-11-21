@@ -25,8 +25,8 @@ Les trois acteurs principaux (Étudiant, Professeur, Superviseur) ont été déc
 
 – User Stories
 Les besoins fonctionnels ont été transformés en User Stories structurées :
-• 3 User Stories pour l’étudiant
-• 2 User Stories pour le professeur
+• 4 User Stories pour l’étudiant
+• 3 User Stories pour le professeur
 • 3 User Stories pour le superviseur
 Chaque User Story suit le format :
 « En tant que…, je veux…, afin de… ».
@@ -41,7 +41,7 @@ Ce backlog constitue la base de la planification des sprints.
 
 – Mise en place du Kanban
 Les colonnes principales du Kanban ont été définies :
-Backlog, To Do, In Progress, Review, Done.
+Backlog, To Do, In Progress, Done.
 Les tâches peuvent désormais être suivies visuellement selon leur progression.
 
 – Création des fichiers Markdown
