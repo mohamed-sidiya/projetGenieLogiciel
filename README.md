@@ -26,7 +26,7 @@ Les trois acteurs principaux (Étudiant, Professeur, Superviseur) ont été déc
 – User Stories
 Les besoins fonctionnels ont été transformés en User Stories structurées :
 • 4 User Stories pour l’étudiant
-• 3 User Stories pour le professeur
+• 5 User Stories pour le professeur
 • 3 User Stories pour le superviseur
 Chaque User Story suit le format :
 « En tant que…, je veux…, afin de… ».
@@ -50,7 +50,9 @@ Plusieurs documents techniques du projet ont été générés et structurés pro
 • acteurs
 • user_stories
 • sprint_planning_1
-• backlog (optionnel)
+• backlog.xlsx
+
+- Création et utilisation du dépôt GitHub.
 
 3. Méthodologie utilisée
    Le projet suit une approche inspirée de Scrum :
@@ -69,10 +71,8 @@ Plusieurs documents techniques du projet ont été générés et structurés pro
    Tout est prêt pour démarrer officiellement le développement.
 
 5. Prochaines étapes recommandées
-   • commencer le Sprint 1 (développement du module Étudiant)
+   • commencer le Sprint 1 
    • réaliser les maquettes des interfaces (UI/UX)
-   • choisir la stack technique (ex. Laravel, Spring Boot, Node.js + React)
-   • créer une structure propre du dépôt GitHub
    • préparer l’environnement de travail (IDE, outils de gestion, etc.)
 
 6. Conclusion
