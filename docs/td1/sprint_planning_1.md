@@ -12,7 +12,7 @@ Mettre en place le système de base d'enregistrement de présence via **QR Code*
 
 ---
 
-## US-01 — Génération du QR Code (Étudiant)
+## US-04 — Génération du QR Code (Étudiant)
 **Priorité : HAUTE**  
 **Story :** En tant qu’étudiant, je veux un QR code afin de permettre au professeur d’enregistrer ma présence.
 
@@ -29,7 +29,7 @@ Cette fonctionnalité constitue la base du système. Sans QR code, le mécanisme
 
 ---
 
-## US-02 — Scanner le QR Code (Professeur)
+## US-07 — Scanner le QR Code (Professeur)
 **Priorité : HAUTE**  
 **Story :** En tant que professeur, je veux un scanner afin de lire le QR code pour enregistrer la présence.
 
@@ -45,7 +45,7 @@ Complément indispensable du système QR Code : le professeur doit pouvoir scann
 
 ---
 
-## US-03 — Enregistrement Manuel de Présence (Professeur)
+## US-09 — Enregistrement Manuel de Présence (Professeur)
 **Priorité : HAUTE**  
 **Story :** En tant que professeur, je veux une interface afin de pouvoir enregistrer manuellement la présence des élèves.
 
@@ -61,7 +61,7 @@ Permet de gérer les cas où le QR code ne fonctionne pas, ou de corriger une pr
 
 ---
 
-## US-04 — Consultation du Taux d’Absentéisme (Étudiant)
+## US-01 — Consultation du Taux d’Absentéisme (Étudiant)
 **Priorité : HAUTE**  
 **Story :** En tant qu’étudiant, je veux une interface afin de suivre mon taux d’absentéisme.
 
