@@ -10,6 +10,26 @@ Mettre en place le système de base d'enregistrement de présence via **QR Code*
 
 ## 2. User Stories Sélectionnées pour le Sprint 1
 
+
+---
+
+## US-01 — Consultation du Taux d’Absentéisme (Étudiant)
+**Priorité : HAUTE**  
+**Story :** En tant qu’étudiant, je veux une interface afin de suivre mon taux d’absentéisme.
+
+**Justification :**  
+Permet à l’étudiant de suivre son assiduité et de prendre conscience de sa situation académique.
+
+### ✔ Critères d’acceptation
+- L'étudiant voit son taux d’absentéisme global (en pourcentage).  
+- L’étudiant voit le détail par matière.  
+- L’étudiant voit l’historique complet de ses présences/absences.  
+- Les statistiques affichent :  
+  - Nombre de présences  
+  - Nombre d’absences  
+  - Taux d’absentéisme  
+- Les données sont actualisées après chaque cours.  
+
 ---
 
 ## US-04 — Génération du QR Code (Étudiant)
@@ -58,25 +78,6 @@ Permet de gérer les cas où le QR code ne fonctionne pas, ou de corriger une pr
 - Les modifications sont sauvegardées en temps réel.  
 - Le professeur peut modifier une présence déjà enregistrée.  
 - L’interface indique les étudiants qui ont déjà été scannés via QR code.  
-
----
-
-## US-01 — Consultation du Taux d’Absentéisme (Étudiant)
-**Priorité : HAUTE**  
-**Story :** En tant qu’étudiant, je veux une interface afin de suivre mon taux d’absentéisme.
-
-**Justification :**  
-Permet à l’étudiant de suivre son assiduité et de prendre conscience de sa situation académique.
-
-### ✔ Critères d’acceptation
-- L'étudiant voit son taux d’absentéisme global (en pourcentage).  
-- L’étudiant voit le détail par matière.  
-- L’étudiant voit l’historique complet de ses présences/absences.  
-- Les statistiques affichent :  
-  - Nombre de présences  
-  - Nombre d’absences  
-  - Taux d’absentéisme  
-- Les données sont actualisées après chaque cours.  
 
 ---
 
