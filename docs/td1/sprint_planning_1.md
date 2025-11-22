@@ -96,7 +96,7 @@ Permet de gérer les cas où le QR code ne fonctionne pas, ou de corriger une pr
 
 ---
 
-## US-09 — Valider/Rejeter les Justificatifs (Proviseur)
+## US-11 — Gérer les justificatifs (Valider/Rejeter) --> (Proviseur)
 **Priorité : HAUTE**  
 **Story :** En tant que proviseur, je veux un espace afin de valider ou rejeter les excuses d'absences soumises par les élèves.
 
