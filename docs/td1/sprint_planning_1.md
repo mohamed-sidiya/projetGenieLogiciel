@@ -79,3 +79,31 @@ Permet à l’étudiant de suivre son assiduité et de prendre conscience de sa 
 - Les données sont actualisées après chaque cours.  
 
 ---
+
+## US-10 — Tableau de bord administratif (Superviseur)
+**Priorité : HAUTE**  
+**Story :** En tant que proviseur, je veux un tableau de bord administratif pour pouvoir consulter les absences des élèves et professeurs.
+
+**Justification :**  
+- Supervision globale - Vue d'ensemble pour la direction
+- Reporting administratif - Nécessaire pour les rapports et statistiques
+
+### ✔ Critères d’acceptation
+- Après US-01 à US-05 : Nécessite des données complètes (présences + justificatifs)
+- Avant US-07 : Le proviseur doit voir les justificatifs avant de pouvoir les valider
+- Peut être développée en parallèle : Pas de dépendance technique forte avec US-05
+
+---
+
+## US-09 — Valider/Rejeter les Justificatifs (Proviseur)
+**Priorité : HAUTE**  
+**Story :** En tant que proviseur, je veux un espace afin de valider ou rejeter les excuses d'absences soumises par les élèves.
+
+**Justification :**
+- Détermine si l'absence est excusée ou sanctionnée
+
+### ✔ Critères d’acceptation
+- Après US-05 : On ne peut valider des justificatifs qui n'ont pas été soumis
+- Après US-06 : Le proviseur a besoin du tableau de bord pour voir les justificatifs
+
+---
