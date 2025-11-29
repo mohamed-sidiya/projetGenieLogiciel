@@ -1,4 +1,3 @@
-usecaseDiagram
 actor Etudiant
 actor Professeur
 actor Superviseur
