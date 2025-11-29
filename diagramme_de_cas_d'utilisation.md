@@ -1,6 +1,6 @@
-actor Etudiant
-actor Professeur
-actor Superviseur
+acteur Etudiant
+acteuur Professeur
+acteur Superviseur
 
 Etudiant --> (Générer QR Code)
 Etudiant --> (Consulter taux d’absence)
