@@ -13,5 +13,5 @@ Professeur --> (Visualiser liste présents/absents)
 
 Superviseur --> (Valider/Rejeter justificatifs)
 Superviseur --> (Recevoir alertes administratives)
-Superviseur --> (Envoyer relances automatiques)
+
 
