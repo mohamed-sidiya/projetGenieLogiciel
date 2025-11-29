@@ -1,0 +1,77 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.2.1">
+  <diagram name="Page-1" id="selmYxrPTMqtjB44ZUzw">
+    <mxGraphModel dx="786" dy="417" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="7wUNVY2gwmCPnEDyGoo1-13" edge="1" parent="1" source="7wUNVY2gwmCPnEDyGoo1-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="7wUNVY2gwmCPnEDyGoo1-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="500" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7wUNVY2gwmCPnEDyGoo1-16" edge="1" parent="1" source="7wUNVY2gwmCPnEDyGoo1-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="7wUNVY2gwmCPnEDyGoo1-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="364" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7wUNVY2gwmCPnEDyGoo1-19" edge="1" parent="1" source="7wUNVY2gwmCPnEDyGoo1-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="7wUNVY2gwmCPnEDyGoo1-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7wUNVY2gwmCPnEDyGoo1-4" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" value="Professeur" vertex="1">
+          <mxGeometry height="60" width="30" x="390" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="7wUNVY2gwmCPnEDyGoo1-7" edge="1" parent="1" source="7wUNVY2gwmCPnEDyGoo1-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="7wUNVY2gwmCPnEDyGoo1-6" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7wUNVY2gwmCPnEDyGoo1-9" edge="1" parent="1" source="7wUNVY2gwmCPnEDyGoo1-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="7wUNVY2gwmCPnEDyGoo1-8" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7wUNVY2gwmCPnEDyGoo1-12" edge="1" parent="1" source="7wUNVY2gwmCPnEDyGoo1-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="7wUNVY2gwmCPnEDyGoo1-11" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7wUNVY2gwmCPnEDyGoo1-5" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" value="Etudiant" vertex="1">
+          <mxGeometry height="60" width="30" x="90" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="7wUNVY2gwmCPnEDyGoo1-6" parent="1" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;align=center;" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: rgb(13, 17, 23); color: rgb(240, 246, 252); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Noto Sans&amp;quot;, Helvetica, Arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;; font-size: 16px; line-height: 300%;&quot;&gt;Générer QR Code&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="165" x="80" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="7wUNVY2gwmCPnEDyGoo1-8" parent="1" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=middle;textOpacity=80;align=center;" value="Consulter taux d’absence&lt;div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="110" x="190" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="7wUNVY2gwmCPnEDyGoo1-11" parent="1" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=middle;fontSize=14;" value="Soumettre justificatif" vertex="1">
+          <mxGeometry height="60" width="110" x="120" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="7wUNVY2gwmCPnEDyGoo1-14" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Scanner QR Code" vertex="1">
+          <mxGeometry height="70" width="140" x="480" y="185" as="geometry" />
+        </mxCell>
+        <mxCell id="7wUNVY2gwmCPnEDyGoo1-17" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Enregistrer présence manuellement" vertex="1">
+          <mxGeometry height="70" width="140" x="350" y="329" as="geometry" />
+        </mxCell>
+        <mxCell id="7wUNVY2gwmCPnEDyGoo1-20" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Visualiser liste présents/absents" vertex="1">
+          <mxGeometry height="70" width="140" x="350" y="75" as="geometry" />
+        </mxCell>
+        <mxCell id="7wUNVY2gwmCPnEDyGoo1-24" edge="1" parent="1" source="7wUNVY2gwmCPnEDyGoo1-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="7wUNVY2gwmCPnEDyGoo1-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7wUNVY2gwmCPnEDyGoo1-26" edge="1" parent="1" source="7wUNVY2gwmCPnEDyGoo1-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="7wUNVY2gwmCPnEDyGoo1-27">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="170" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7wUNVY2gwmCPnEDyGoo1-21" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" value="Superviseur" vertex="1">
+          <mxGeometry height="60" width="30" x="147.5" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="7wUNVY2gwmCPnEDyGoo1-25" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Valider/Rejeter justificatifs" vertex="1">
+          <mxGeometry height="70" width="140" x="190" y="445" as="geometry" />
+        </mxCell>
+        <mxCell id="7wUNVY2gwmCPnEDyGoo1-27" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Recevoir alertes administratives" vertex="1">
+          <mxGeometry height="70" width="140" x="100" y="545" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
